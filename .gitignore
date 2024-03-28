@@ -1,2 +1,5 @@
 rust/target/
 rust/Cargo.lock
+
+c/piGaussLegendre
+cpp/piGaussLegendre
